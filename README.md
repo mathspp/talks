@@ -19,4 +19,12 @@ Finally, I'm very active on Twitter [@mathsppblog][twitter]
 where I teach Python in bite-sized portions.
 
 
+| Date | Conference | Talk title | Recording |
+| :- | :- | :- | :- |
+| 27-07-2021 | EuroPython 2021 | Implementing a Neural Network from Scratch | N/A |
+| 28-07-2021 | EuroPython 2021 | Pydon'ts – Write elegant Python code | [YouTube](https://www.youtube.com/watch?v=Vjq89-spPOk) |
+| 23-10-2021 | DjangoCon US 2021 | Pydon'ts – Write elegant Python code v1.1 | [YouTube](https://www.youtube.com/watch?v=s6dJab2qwkg) |
+| 04-12-2021 | Pyjamas Conf 2021 | Pydon'ts – Write elegant Python code v2 | N/A |
+
+
 [twitter]: https://twitter.com/mathsppblog
