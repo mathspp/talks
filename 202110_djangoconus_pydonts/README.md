@@ -3,22 +3,15 @@ and [subscribe to my newsletter](https://mathspp.com/subscribe) to level up your
 
 # Pydon'ts – Write elegant Python code
 
-This talk will be presented at DjangoCon US 2021.
+This talk was presented at DjangoCon US 2021.
 
-I will upload the slides closer to the talk date, which will be around the 21st-23rd of October.
-
-(Psst, is it past the date already? 😅 [Reach out to me on Twitter][twitter] and remind me of how silly I am, please!)
+You can [watch the recording](https://www.youtube.com/watch?v=s6dJab2qwkg) on YouTube.
 
 
 ## Abstract
 
-In this talk I show what idiomatic Python code looks like and illustrate how the subjective notion of “beautiful”, or “elegant” code, can make your code objectively better, regardless of your Python skill level.
-
-We do that by visiting several vanilla Python features that people sometimes forget to learn, as they rush to importing all the shiny modules and frameworks they really want to use.
-
-In order to achieve this, we go through the learning journey of a hypothetical Pythonista, taking a function written by them and refactoring it incrementally through the use of Pythonic idioms and patterns.
-
-The whole talk will build around a weekly series of articles I have been publishing, where I explore all the vanilla Python features that make Python one of the most interesting programming languages to learn.
+Python's shiny frameworks drive some people to spend too little time learning the basics, which makes it harder in the long run to develop successful applications.
+Join me for the hypothetical learning journey of a Pythonista as we refactor a function and learn powerful vanilla Python features.
 
 
 [twitter]: https://twitter.com/mathsppblog
