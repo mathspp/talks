@@ -21,9 +21,9 @@ where I teach Python in bite-sized portions.
 
 | Date | Conference | Talk title | Recording |
 | :- | :- | :- | :- |
-| 27-07-2021 | EuroPython 2021 | Implementing a Neural Network from Scratch | N/A |
-| 28-07-2021 | EuroPython 2021 | Pydon'ts – Write elegant Python code | [YouTube](https://www.youtube.com/watch?v=Vjq89-spPOk) |
-| 23-10-2021 | DjangoCon US 2021 | Pydon'ts – Write elegant Python code v1.1 | [YouTube](https://www.youtube.com/watch?v=s6dJab2qwkg) |
+| 27-07-2021 | EuroPython 2021 | [Implementing a Neural Network from Scratch](https://ep2021.europython.eu/talks/4hDJyV5-implementing-a-neural-network-from-scratch/) | N/A |
+| 28-07-2021 | EuroPython 2021 | [Pydon'ts – Write elegant Python code](https://ep2021.europython.eu/talks/Bz5dtEe-pydonts/) | [YouTube](https://www.youtube.com/watch?v=Vjq89-spPOk) |
+| 23-10-2021 | DjangoCon US 2021 | [Pydon'ts – Write elegant Python code v1.1](https://2021.djangocon.us/talks/pydon-ts-write-elegant-python-code-v1-1/) | [YouTube](https://www.youtube.com/watch?v=s6dJab2qwkg) |
 | 04-12-2021 | Pyjamas Conf 2021 | Pydon'ts – Write elegant Python code v2 | N/A |
 
 
