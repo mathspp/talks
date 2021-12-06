@@ -5,6 +5,8 @@ and [subscribe to my newsletter](https://mathspp.com/subscribe) to level up your
 
 This talk was presented at the Pyjamas Conference 2021.
 
+![](poster.png)
+
 
 ## Abstract
 
