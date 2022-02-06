@@ -19,14 +19,15 @@ Finally, I'm very active on Twitter [@mathsppblog][twitter]
 where I teach Python in bite-sized portions.
 
 
-| Date | Conference | Talk title | Recording |
-| :- | :- | :- | :- |
-| 27-07-2021 | EuroPython 2021 | [Implementing a Neural Network from Scratch](https://ep2021.europython.eu/talks/4hDJyV5-implementing-a-neural-network-from-scratch/) | N/A |
-| 28-07-2021 | EuroPython 2021 | [Pydon'ts – Write elegant Python code](https://ep2021.europython.eu/talks/Bz5dtEe-pydonts/) | [YouTube](https://www.youtube.com/watch?v=Vjq89-spPOk) |
-| 23-10-2021 | DjangoCon US 2021 | [Pydon'ts – Write elegant Python code v1.1](https://2021.djangocon.us/talks/pydon-ts-write-elegant-python-code-v1-1/) | [YouTube](https://www.youtube.com/watch?v=s6dJab2qwkg) |
-| 04-12-2021 | Pyjamas Conf 2021 | Pydon'ts – Write elegant Python code v2 | N/A |
-| 15-12-2021 | New Zealand Python User Group | Your first Python class | N/A |
-| 15-12-2021 | New Zealand Python User Group | Python objects under the hood | N/A |
+| Date | Conference | Talk title | Recording | Written version |
+| :- | :- | :- | :- | :- |
+| 27-07-2021 | EuroPython 2021 | [Implementing a Neural Network from Scratch](https://ep2021.europython.eu/talks/4hDJyV5-implementing-a-neural-network-from-scratch/) | N/A | [link](https://mathspp.com/blog/tag:nnfwp) |
+| 28-07-2021 | EuroPython 2021 | [Pydon'ts – Write elegant Python code](https://ep2021.europython.eu/talks/Bz5dtEe-pydonts/) | [YouTube](https://www.youtube.com/watch?v=Vjq89-spPOk) | N/A |
+| 23-10-2021 | DjangoCon US 2021 | [Pydon'ts – Write elegant Python code v1.1](https://2021.djangocon.us/talks/pydon-ts-write-elegant-python-code-v1-1/) | [YouTube](https://www.youtube.com/watch?v=s6dJab2qwkg) | N/A |
+| 04-12-2021 | Pyjamas Conf 2021 | Pydon'ts – Write elegant Python code v2 | TBA | N/A |
+| 15-12-2021 | New Zealand Python User Group | Your first Python class | TBA | N/A |
+| 15-12-2021 | New Zealand Python User Group | Python objects under the hood | TBA | N/A |
+| 06-02-2022 | PyCascades 2022 | Fifty shades of `sign` | TBA | [link](https://mathspp.com/blog/50-shades-of-sign) |
 
 
 [twitter]: https://twitter.com/mathsppblog
