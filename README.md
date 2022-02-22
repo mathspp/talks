@@ -28,6 +28,7 @@ where I teach Python in bite-sized portions.
 | 15-12-2021 | New Zealand Python User Group | Your first Python class | TBA | N/A |
 | 15-12-2021 | New Zealand Python User Group | Python objects under the hood | TBA | N/A |
 | 06-02-2022 | PyCascades 2022 | [Fifty shades of `sign`](https://pretalx.com/pycascades-2022/talk/RNYRVR/) | TBA | [link](https://mathspp.com/blog/50-shades-of-sign) |
+| 22-02-2022 | PyCon Sri Lanka 2022 | [Pydon'ts – Write elegant Python code v2](https://pycon.lk/#agenda) | TBA | [Link](https://mathspp.com/blog/enumerate-from-first-principles) |
 
 
 [twitter]: https://twitter.com/mathsppblog
