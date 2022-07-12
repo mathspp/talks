@@ -30,6 +30,7 @@ where I teach Python in bite-sized portions.
 | 06-02-2022 | PyCascades 2022 | [Fifty shades of `sign`](https://pretalx.com/pycascades-2022/talk/RNYRVR/) | [YouTube](https://www.youtube.com/watch?v=FkE-HrxSFCM) | [link](https://mathspp.com/blog/50-shades-of-sign) |
 | 22-02-2022 | PyCon Sri Lanka 2022 | [Pydon'ts – Write elegant Python code v3](https://pycon.lk/#agenda) | [YouTube](https://youtu.be/Bdunek7Q8Ss?t=90) | [Link](https://mathspp.com/blog/enumerate-from-first-principles) |
 | 25-03-2022 | FnConf 2022 | [Why APL is a language worth knowing](https://confengine.com/conferences/functional-conf-2022/proposal/16278/why-apl-is-a-language-worth-knowing) | TBA | [Link](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing) |
+| 12-07-2022 | EuroPython 2022 | [Python objects under the hood](https://ep2022.europython.eu/session/python-objects-under-the-hood) | N/A | [dunder methods](https://mathspp.com/blog/pydonts/dunder-methods) |
 
 
 [twitter]: https://twitter.com/mathsppblog
