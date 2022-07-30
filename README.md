@@ -32,7 +32,7 @@ where I teach Python in bite-sized portions.
 | 25-03-2022 | FnConf 2022 | [Why APL is a language worth knowing](https://confengine.com/conferences/functional-conf-2022/proposal/16278/why-apl-is-a-language-worth-knowing) | [YouTube](https://www.youtube.com/watch?v=j-qlYcIl61o) | [Link](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing) |
 | 12-07-2022 | EuroPython 2022 | [Python objects under the hood](https://ep2022.europython.eu/session/python-objects-under-the-hood) | N/A | [dunder methods](https://mathspp.com/blog/pydonts/dunder-methods) |
 | 14-07-2022 | EuroPython 2022 | Smoosh all the things ⚡ | [YouTube](https://www.youtube.com/watch?v=YeH7CwruEUs) | [Link](https://mathspp.com/blog/smoosh-all-the-things) |
-| 30-07-2022 | PyOhio 2022 | [Comprehending Comprehensions](https://www.pyohio.org/2022/program/talks/comprehending-comprehensions) | TBA | [Book](https://gum.co/comprehending-comprehensions) |
+| 30-07-2022 | PyOhio 2022 | [Comprehending Comprehensions](https://www.pyohio.org/2022/program/talks/comprehending-comprehensions) | [YouTube](https://www.youtube.com/watch?v=ScsElLE_Pak) | [Book](https://gum.co/comprehending-comprehensions) |
 
 
 [twitter]: https://twitter.com/mathsppblog
