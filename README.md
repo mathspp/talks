@@ -33,6 +33,8 @@ where I teach Python in bite-sized portions.
 | 12-07-2022 | EuroPython 2022 | [Python objects under the hood](https://ep2022.europython.eu/session/python-objects-under-the-hood) | N/A | [dunder methods](https://mathspp.com/blog/pydonts/dunder-methods) |
 | 14-07-2022 | EuroPython 2022 | Smoosh all the things ⚡ | [YouTube](https://www.youtube.com/watch?v=YeH7CwruEUs) | [Link](https://mathspp.com/blog/smoosh-all-the-things) |
 | 30-07-2022 | PyOhio 2022 | [Comprehending Comprehensions](https://www.pyohio.org/2022/program/talks/comprehending-comprehensions) | [YouTube](https://www.youtube.com/watch?v=ScsElLE_Pak) | [Book](https://gum.co/comprehending-comprehensions) |
+| 24-09-2022 | PyCon Portugal 2022 | Pydon'ts – Write elegant Python code v4⁽¹⁾ | [YouTube](https://youtu.be/ETg64K32Okc) | TBA |
 
+⁽¹⁾: I was scheduled to present at around 2pm but had a family emergency and couldn't make it to the conference. I recorded my talk after the conference and shared it online.
 
 [twitter]: https://twitter.com/mathsppblog
