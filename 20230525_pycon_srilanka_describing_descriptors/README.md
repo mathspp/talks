@@ -1,3 +1,6 @@
+Reach out to me on Twitter [@mathsppblog](https://twitter.com/mathsppblog)
+and [subscribe to my newsletter](https://mathspp.com/subscribe) to level up your Python knowledge!
+
 # Describing Descriptors
 
 This talk was presented at [PyCon Sri Lanka](https://pycon.lk) 2023.
