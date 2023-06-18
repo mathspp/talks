@@ -1,7 +1,7 @@
 Reach out to me on Twitter [@mathsppblog](https://twitter.com/mathsppblog)
 and [subscribe to my newsletter](https://mathspp.com/subscribe) to level up your Python knowledge!
 
-# Pydon'ts – Write elegant Python code v2
+# Pydon'ts – Write elegant Python code v4
 
 This talk was going to be presented at PyCon Portugal 2022.
 Due to a family emergency, I couldn't make, but I made an unofficial recording and shared it on [YouTube](https://youtu.be/ETg64K32Okc).
