@@ -18,4 +18,4 @@ class Color:
         self.hex = hex
 
 clr = Color("#ff0000")  # ~ (ff, 00, 00)
-print(clr.hello)
+print(clr.r)
