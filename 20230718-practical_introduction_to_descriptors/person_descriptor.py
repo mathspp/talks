@@ -22,4 +22,4 @@ class Person:
 
 john = Person("John", "Smith", 1997)
 print(john.name)
-print(john.age)
+print(john.age)  # 26
