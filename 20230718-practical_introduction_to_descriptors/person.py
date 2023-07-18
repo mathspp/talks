@@ -7,6 +7,10 @@ class Person:
     def name(self):
         return f"{self.first} {self.last}"
 
+    @name.setter
+    def name(self, new_name):
+        first, last = new_name.split()
+
 
 john = Person("John", "Smith")
 john.first = "Rodrigo"
