@@ -35,6 +35,8 @@ where I teach Python in bite-sized portions.
 | 30-07-2022 | PyOhio 2022 | [Comprehending Comprehensions](https://www.pyohio.org/2022/program/talks/comprehending-comprehensions) | [YouTube](https://www.youtube.com/watch?v=ScsElLE_Pak) | [Book](https://gum.co/comprehending-comprehensions) |
 | 24-09-2022 | PyCon Portugal 2022 | Pydon'ts – Write elegant Python code v4⁽¹⁾ | [YouTube](https://youtu.be/ETg64K32Okc) | TBA |
 | 25-05-2023 | PyCon Sri Lanka 2023 | [Describing Descriptors](https://pycon.lk/#agenda) | [YouTube](https://www.youtube.com/watch?v=zCtyQS-c4dg&t=98s) | [Link](https://mathspp.com/blog/pydonts/describing-descriptors) |
+| 17-07-2023 | EuroPython 2023 | [Build a terminal TODO app with Textual](https://ep2023.europython.eu/session/build-a-terminal-todo-app-with-textual) | N/A | [Link](https://mathspp.com/blog/textual-for-beginners] |
+| 18-07-2023 | EuroPython 2023 | [Practical introduction to descriptors](https://ep2023.europython.eu/session/practical-introduction-to-descriptors) | N/A | [Link](https://mathspp.com/blog/pydonts/describing-descriptors) |
 
 ⁽¹⁾: I was scheduled to present at around 2pm but had a family emergency and couldn't make it to the conference. I recorded my talk after the conference and shared it online.
 
