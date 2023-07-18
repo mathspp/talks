@@ -4,7 +4,7 @@ class NameDescriptor:
         return f"{person.first} {person.last}"
     
     def __set__(self, person, new_name):
-        first, last = new_name
+        first, last = new_name.split()
         person.first = first
         person.last = last
 
@@ -19,3 +19,6 @@ class Person:
 
 john = Person("John", "Smith")
 print(john.name)
+
+john.name = "Rodrigo Serrão"
+print(john.first)
