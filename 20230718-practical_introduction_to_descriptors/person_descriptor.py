@@ -1,7 +1,8 @@
 class NameDescriptor:
     def __get__(self, person, cls):
+        print(person, cls)
         return f"{person.first} {person.last}"
-    
+
 class Person:
     name = NameDescriptor()
 
@@ -12,3 +13,4 @@ class Person:
 
 john = Person("John", "Smith")
 print(john.name)
+print(Person.name)
