@@ -3,10 +3,11 @@ class Person:
         self.first = first
         self.last = last
 
-    def get_name(self):
+    @property
+    def name(self):
         return f"{self.first} {self.last}"
 
 
 john = Person("John", "Smith")
 john.first = "Rodrigo"
-print(john.get_name())
+print(john.name)
