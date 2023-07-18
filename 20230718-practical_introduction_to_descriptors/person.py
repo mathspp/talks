@@ -10,6 +10,8 @@ class Person:
     @name.setter
     def name(self, new_name):
         first, last = new_name.split()
+        self.first = first
+        self.last = last
 
 
 john = Person("John", "Smith")
