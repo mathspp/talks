@@ -2,8 +2,10 @@ class RGBComponent:
     def __init__(self, idx):
         self.idx = idx
 
-    def __get__(self, ...):
-        ...
+    def __get__(self, color, cls):
+        hex = color.hex
+        values = hex[1 + 2 * self.idx:2 * self.idx + 3]
+        return int(values, 16)
 
 
 class Color:
