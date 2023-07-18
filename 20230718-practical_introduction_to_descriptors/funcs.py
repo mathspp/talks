@@ -12,3 +12,4 @@ class Person:
 
 john = Person("John", "Smith")
 print(john.get_name())
+print(get_name(john))
