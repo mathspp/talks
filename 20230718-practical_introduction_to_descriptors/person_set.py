@@ -2,6 +2,9 @@ class NameDescriptor:
     def __get__(self, person, cls):
         print(person, cls)
         return f"{person.first} {person.last}"
+    
+    def __set__(self, person, new_name):
+        ...
 
 
 class Person:
