@@ -9,6 +9,9 @@ class Person:
 
     get_name = get_name
 
+    def get_name(self):
+        return self.first + " " + self.last
+
 
 john = Person("John", "Smith")
 print(john.get_name())
