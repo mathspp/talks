@@ -1,0 +1,12 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "python.analysis.autoImportCompletions": false,
+    "editor.fontLigatures": false,
+    "editor.fontSize": 24,
+    "editor.inlayHints.enabled": "off",
+    "editor.parameterHints.enabled": false,
+    "python.analysis.typeCheckingMode": "off"
+}
