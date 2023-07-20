@@ -28,6 +28,6 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 | 17-07-2023 | EuroPython 2023 | [Build a terminal TODO app with Textual](https://ep2023.europython.eu/session/build-a-terminal-todo-app-with-textual) | - | [Link](https://mathspp.com/blog/textual-for-beginners) |
 | 18-07-2023 | EuroPython 2023 | [Practical introduction to descriptors](https://ep2023.europython.eu/session/practical-introduction-to-descriptors) | -| [Link](https://mathspp.com/blog/pydonts/describing-descriptors) |
 | 20-07-2023 | EuroPython 2023 | [How dunder methods rule Python under the hood](https://ep2023.europython.eu/session/how-dunder-methods-rule-python-under-the-hood) | TBA | [Link](https://mathspp.com/blog/pydonts/dunder-methods) |
-| 20-07-2023 | EuroPython 2023 | [You DON'T know comprehensions](https://ep2023.europython.eu/session/you-dont-know-comprehensions) | TBA | [Book](https://gum.co/comprehending-comprehensions) |
+| 20-07-2023 | EuroPython 2023 | [You DON'T know comprehensions](https://ep2023.europython.eu/session/you-dont-know-comprehensions) | - | [Book](https://gum.co/comprehending-comprehensions) |
 
 ⁽¹⁾: I was scheduled to present at around 2pm but had a family emergency and couldn't make it to the conference. I recorded my talk after the conference and shared it online.
