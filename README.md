@@ -30,5 +30,6 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 | 20-07-2023 | EuroPython 2023 | [How dunder methods rule Python under the hood](https://ep2023.europython.eu/session/how-dunder-methods-rule-python-under-the-hood) | TBA | [Link](https://mathspp.com/blog/pydonts/dunder-methods) |
 | 20-07-2023 | EuroPython 2023 | [You DON'T know comprehensions](https://ep2023.europython.eu/session/you-dont-know-comprehensions) | - | [Book](https://gum.co/comprehending-comprehensions) |
 | 20-07-2023 | EuroPython 2023 | What APL taught me about Python ⚡ | TBA | [Link](https://mathspp.com/blog/what-learning-apl-taught-me-about-python) |
+| 15-08-2023 | Func Prog Sweden meetup | [How APL made me a better Python developer](https://www.meetup.com/func-prog-sweden/events/294451071/) | TBA | [Link](https://mathspp.com/blog/what-learning-apl-taught-me-about-python) |
 
 ⁽¹⁾: I was scheduled to present at around 2pm but had a family emergency and couldn't make it to the conference. I recorded my talk after the conference and shared it online.
