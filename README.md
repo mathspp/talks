@@ -31,9 +31,9 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 | 🎙️ 20-07-2023 | EuroPython 2023 | [You DON'T know comprehensions](https://ep2023.europython.eu/session/you-dont-know-comprehensions) | - | [Book](https://mathspp.com/comprehending-comprehensions) |
 | 🎙️ 20-07-2023 | EuroPython 2023 | What APL taught me about Python ⚡ | [YouTube](https://youtu.be/vCMoWPTPdXo) | [Link](https://mathspp.com/blog/what-learning-apl-taught-me-about-python) |
 | 🎙️ 15-08-2023 | Func Prog Sweden meetup | [How APL made me a better Python developer](https://www.meetup.com/func-prog-sweden/events/294451071/) | [YouTube](https://youtu.be/tDy-to9fgaw?t=140) | [Link](https://mathspp.com/blog/what-learning-apl-taught-me-about-python) |
-| 🎙️ 07-09-2023 | PyCon Portugal 2023 | Animations from first principles in 5 minutes ⚡ | TBA | [Link](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes) |
+| 🎙️ 07-09-2023 | PyCon Portugal 2023 | Animations from first principles in 5 minutes ⚡ | [YouTube](https://www.youtube.com/watch?v=o8Vsx_pzcp8) | [Link](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes) |
 | 🎙️ 08-09-2023 | PyCon Portugal 2023 | [Comprehending comprehensions](https://pretalx.evolutio.pt/pycon-pt-2023/talk/FMZMGP/) | TBA | [Book](https://mathspp.com/comprehending-comprehensions) |
-| 🎙️ 08-09-2023 | PyCon Portugal 2023 | (More) Animations from first principles in 5 minutes ⚡ | TBA | [Link](https://mathspp.com/blog/more-animations-from-first-principles-in-5-minutes) |
+| 🎙️ 08-09-2023 | PyCon Portugal 2023 | (More) Animations from first principles in 5 minutes ⚡ | [YouTube](https://www.youtube.com/watch?v=IFw5KVvDgik) | [Link](https://mathspp.com/blog/more-animations-from-first-principles-in-5-minutes) |
 | ✏️ 09-09-2023 | PyCon Portugal 2023 | [Mastering comprehensions](https://pretalx.evolutio.pt/pycon-pt-2023/talk/FMZMGP/) | - | [Book](https://mathspp.com/comprehending-comprehensions), [Repo](https://github.com/mathspp/comprehending-comprehensions) |
 
  - ✏️: tutorials / workshops / practical sessions
