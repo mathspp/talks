@@ -21,7 +21,7 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 | 🎙️ 22-02-2022 | PyCon Sri Lanka 2022 | [Pydon'ts – Write elegant Python code v3](https://pycon.lk/2022/#agenda) | [YouTube](https://youtu.be/Bdunek7Q8Ss?t=90) | [Link](https://mathspp.com/blog/enumerate-from-first-principles) |
 | 🎙️ 25-03-2022 | FnConf 2022 | [Why APL is a language worth knowing](https://confengine.com/conferences/functional-conf-2022/proposal/16278/why-apl-is-a-language-worth-knowing) | [YouTube](https://www.youtube.com/watch?v=j-qlYcIl61o) | [Link](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing) |
 | ✏️ 12-07-2022 | EuroPython 2022 | [Python objects under the hood](https://ep2022.europython.eu/session/python-objects-under-the-hood) | - | [Link](https://mathspp.com/blog/pydonts/dunder-methods) |
-| 🎙️ 14-07-2022 | EuroPython 2022 | Smoosh all the things ⚡ | [YouTube](https://www.youtube.com/watch?v=YeH7CwruEUs) | [Link](https://mathspp.com/blog/smoosh-all-the-things) |
+| ⚡ 14-07-2022 | EuroPython 2022 | Smoosh all the things | [YouTube](https://www.youtube.com/watch?v=YeH7CwruEUs) | [Link](https://mathspp.com/blog/smoosh-all-the-things) |
 | 🎙️ 30-07-2022 | PyOhio 2022 | [Comprehending Comprehensions](https://www.pyohio.org/2022/program/talks/comprehending-comprehensions) | [YouTube](https://www.youtube.com/watch?v=ScsElLE_Pak) | [Book](https://gum.co/comprehending-comprehensions) |
 | 🎙️ 24-09-2022 | PyCon Portugal 2022 | Pydon'ts – Write elegant Python code v4⁽¹⁾ | [YouTube](https://youtu.be/ETg64K32Okc) | - |
 | 🎙️ 25-05-2023 | PyCon Sri Lanka 2023 | [Describing Descriptors](https://pycon.lk/#agenda) | [YouTube](https://www.youtube.com/watch?v=zCtyQS-c4dg&t=98s) | [Link](https://mathspp.com/blog/pydonts/describing-descriptors) |
@@ -29,14 +29,19 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 | ✏️ 18-07-2023 | EuroPython 2023 | [Practical introduction to descriptors](https://ep2023.europython.eu/session/practical-introduction-to-descriptors) | -| [Link](https://mathspp.com/blog/pydonts/describing-descriptors) |
 | 🎙️ 20-07-2023 | EuroPython 2023 | [How dunder methods rule Python under the hood](https://ep2023.europython.eu/session/how-dunder-methods-rule-python-under-the-hood) | [YouTube](https://mathspp.com/talks#how-dunder-methods-rule-python-under-the-hood) | [Link](https://mathspp.com/blog/pydonts/dunder-methods) |
 | 🎙️ 20-07-2023 | EuroPython 2023 | [You DON'T know comprehensions](https://ep2023.europython.eu/session/you-dont-know-comprehensions) | - | [Book](https://mathspp.com/comprehending-comprehensions) |
-| 🎙️ 20-07-2023 | EuroPython 2023 | What APL taught me about Python ⚡ | [YouTube](https://youtu.be/vCMoWPTPdXo) | [Link](https://mathspp.com/blog/what-learning-apl-taught-me-about-python) |
+| ⚡ 20-07-2023 | EuroPython 2023 | What APL taught me about Python | [YouTube](https://youtu.be/vCMoWPTPdXo) | [Link](https://mathspp.com/blog/what-learning-apl-taught-me-about-python) |
 | 🎙️ 15-08-2023 | Func Prog Sweden meetup | [How APL made me a better Python developer](https://www.meetup.com/func-prog-sweden/events/294451071/) | [YouTube](https://youtu.be/tDy-to9fgaw?t=140) | [Link](https://mathspp.com/blog/what-learning-apl-taught-me-about-python) |
-| 🎙️ 07-09-2023 | PyCon Portugal 2023 | Animations from first principles in 5 minutes ⚡ | [YouTube](https://www.youtube.com/watch?v=o8Vsx_pzcp8) | [Link](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes) |
+| ⚡ 07-09-2023 | PyCon Portugal 2023 | Animations from first principles in 5 minutes | [YouTube](https://www.youtube.com/watch?v=o8Vsx_pzcp8) | [Link](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes) |
 | 🎙️ 08-09-2023 | PyCon Portugal 2023 | [Comprehending comprehensions](https://pretalx.evolutio.pt/pycon-pt-2023/talk/FMZMGP/) | TBA | [Book](https://mathspp.com/comprehending-comprehensions) |
-| 🎙️ 08-09-2023 | PyCon Portugal 2023 | (More) Animations from first principles in 5 minutes ⚡ | [YouTube](https://www.youtube.com/watch?v=IFw5KVvDgik) | [Link](https://mathspp.com/blog/more-animations-from-first-principles-in-5-minutes) |
+| ⚡ 08-09-2023 | PyCon Portugal 2023 | (More) Animations from first principles in 5 minutes | [YouTube](https://www.youtube.com/watch?v=IFw5KVvDgik) | [Link](https://mathspp.com/blog/more-animations-from-first-principles-in-5-minutes) |
 | ✏️ 09-09-2023 | PyCon Portugal 2023 | [Mastering comprehensions](https://pretalx.evolutio.pt/pycon-pt-2023/talk/FMZMGP/) | - | [Book](https://mathspp.com/comprehending-comprehensions), [Repo](https://github.com/mathspp/comprehending-comprehensions) |
+| ✏️ 11-11-2023 | PyCon Ireland 2023 | [How to implement a Python-like programming language](http://pycon.ie/pycon-2023/schedule/) | - | [Blog series](https://mathspp.com/blog/tag:bpci) |
+| ⚡ 11-11-2023 | PyCon Ireland 2023 | How to draw a fractal with Python | TBA | [Blog article](https://mathspp.com/blog/mandelbrot-set) |
+| ⚡ 11-11-2023 | PyCon Ireland 2023 | Elegant (line of) code | TBA | [Blog article](https://mathspp.com/blog/single-line-calculator) |
+| 🎙️ 12-11-2023 | PyCon Ireland 2023 | [Describing Descriptors](http://pycon.ie/pycon-2023/schedule/) | TBA | [Blog article](https://mathspp.com/blog/pydonts/describing-descriptors) |
 
  - ✏️: tutorials / workshops / practical sessions
  - 🎙️: talks / presentations
+ - ⚡: lightning talks (typically <5min, unscheduled)
 
 ⁽¹⁾: I was scheduled to present at around 2pm but had a family emergency and couldn't make it to the conference. I recorded my talk after the conference and shared it online.
