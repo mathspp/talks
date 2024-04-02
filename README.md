@@ -39,6 +39,7 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 | ⚡ 11-11-2023 | PyCon Ireland 2023 | How to draw a fractal with Python | TBA | [Blog article](https://mathspp.com/blog/mandelbrot-set) |
 | ⚡ 11-11-2023 | PyCon Ireland 2023 | Elegant (line of) code | TBA | [Blog article](https://mathspp.com/blog/single-line-calculator) |
 | 🎙️ 12-11-2023 | PyCon Ireland 2023 | [Describing Descriptors](http://pycon.ie/pycon-2023/schedule/) | TBA | [Blog article](https://mathspp.com/blog/pydonts/describing-descriptors) |
+| 🎙️ 03-04-2024 | PyCon Lithuania 2024 | [What are descriptors and why does Django need them?](http://pycon.lt/2024/schedule/) | TBA | [Blog article](https://mathspp.com/blog/pydonts/describing-descriptors) |
 
  - ✏️: tutorials / workshops / practical sessions
  - 🎙️: talks / presentations
