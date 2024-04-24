@@ -42,6 +42,7 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 | 🎙️ 03-04-2024 | PyCon Lithuania 2024 | [What are descriptors and why does Django need them?](http://pycon.lt/2024/schedule/) | TBA | [Blog article](https://mathspp.com/blog/pydonts/describing-descriptors) |
 | ⚡ 03-04-2024 | PyCon Lithuania 2024 | Hold my parentheses | TBA | [Blog article](https://mathspp.com/blog/hold-my-parentheses) |
 | 🎙️ 04-04-2024 | PyCon Lithuania 2024 | [503 days working full-time on FOSS: lessons learned](http://pycon.lt/2024/schedule/) | TBA | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
+| 🎙️ 24-04-2024 | PyCon DE & PyData 2024 | [525 days working full-time on FOSS: lessons learned](https://pretalx.com/pyconde-pydata-2024/talk/ZMC9FU/) | TBA | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
 
  - ✏️: tutorials / workshops / practical sessions
  - 🎙️: talks / presentations
