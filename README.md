@@ -43,6 +43,11 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 | ⚡ 03-04-2024 | PyCon Lithuania 2024 | Hold my parentheses | TBA | [Blog article](https://mathspp.com/blog/hold-my-parentheses) |
 | 🎙️ 04-04-2024 | PyCon Lithuania 2024 | [503 days working full-time on FOSS: lessons learned](http://pycon.lt/2024/schedule/) | TBA | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
 | 🎙️ 24-04-2024 | PyCon DE & PyData 2024 | [525 days working full-time on FOSS: lessons learned](https://pretalx.com/pyconde-pydata-2024/talk/ZMC9FU/) | TBA | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
+| ✏️ 15-05-2024 | PyCon US 2024 | [The Pokémon trainer's guide to pandas & matplotlbi](https://us.pycon.org/2024/schedule/presentation/102/) | TBA | [Book](https://mathspp.gumroad.com/l/little-book-pandas-matplotlib) |
+| ⚡ 18-05-2024 | PyCon US 2024 | Counting to 698,438,863,898,480,640 in <1ms | [YouTube](https://youtu.be/bFYdlcM6XPc) | [Blog article](https://mathspp.com/blog/counting-passwords-with-automatons) |
+| 🎙️ 23-05-2024 | PyCon Italia 2024 | [Descriptors made easy](https://2024.pycon.it/en/event/descriptors-made-easy) | TBA | [Blog article](https://mathspp.com/blog/pydonts/describing-descriptors) |
+| ⚡ 24-05-2024 | PyCon Italia 2024 | Elegant (line of) code | [YouTube](https://www.youtube.com/watch?v=nI8I4NiXyaQ) | [Blog article](https://mathspp.com/blog/single-line-calculator) |
+| 🎙️ 25-05-2024 | PyCon Italia 2024 | [503 days working full-time on FOSS: lessons learned](https://2024.pycon.it/en/event/503-days-working-full-time-on-foss-lessons-learned) | TBA | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
 
  - ✏️: tutorials / workshops / practical sessions
  - 🎙️: talks / presentations
