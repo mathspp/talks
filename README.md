@@ -48,6 +48,9 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 | 🎙️ 23-05-2024 | PyCon Italia 2024 | [Descriptors made easy](https://2024.pycon.it/en/event/descriptors-made-easy) | TBA | [Blog article](https://mathspp.com/blog/pydonts/describing-descriptors) |
 | ⚡ 24-05-2024 | PyCon Italia 2024 | Elegant (line of) code | [YouTube](https://www.youtube.com/watch?v=nI8I4NiXyaQ) | [Blog article](https://mathspp.com/blog/single-line-calculator) |
 | 🎙️ 25-05-2024 | PyCon Italia 2024 | [503 days working full-time on FOSS: lessons learned](https://2024.pycon.it/en/event/503-days-working-full-time-on-foss-lessons-learned) | TBA | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
+| ✏️ 08-07-2024 | EuroPython 2024 | [Reinventing the `itertools` wheel for fun and profit](https://ep2024.europython.eu/session/reinventing-the-itertools-wheel-for-fun-and-profit) | - | [“The little book of `itertools`](https://mathspp.com/books/the-little-book-of-itertools) |
+| 🎙️ 10-07-2024 | EuroPython 2024 | [Animations from first principles](https://ep2024.europython.eu/session/animations-from-first-principles) | TBA | [Blog article](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes) |
+| ⚡ 12-07-2024 | EuroPython 2024 | Who wants to be a millionaire | [YouTube](https://www.youtube.com/watch?v=6SckLDU_X6M) | - |
 
  - ✏️: tutorials / workshops / practical sessions
  - 🎙️: talks / presentations
