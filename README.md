@@ -51,6 +51,12 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 | ✏️ 08-07-2024 | EuroPython 2024 | [Reinventing the `itertools` wheel for fun and profit](https://ep2024.europython.eu/session/reinventing-the-itertools-wheel-for-fun-and-profit) | - | [“The little book of `itertools`](https://mathspp.com/books/the-little-book-of-itertools) |
 | 🎙️ 10-07-2024 | EuroPython 2024 | [Animations from first principles](https://ep2024.europython.eu/session/animations-from-first-principles) | TBA | [Blog article](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes) |
 | ⚡ 12-07-2024 | EuroPython 2024 | Who wants to be a millionaire | [YouTube](https://www.youtube.com/watch?v=6SckLDU_X6M) | - |
+| ⚡ 17-10-2024 | PyCon Portugal 2024 | Python light: now with 0% sugar | [YouTube](https://youtu.be/4s9O-UnekJE?t=415) | [Blog article](https://mathspp.com/blog/hold-my-parentheses-light-now-with-zero-sugar) |
+| 🎙️ 18-10-2024 | PyCon Portugal 2024 | [503 days working full-time on FOSS: lessons learned](https://pretalx.evolutio.pt/pycon-portugal-2024/talk/BQ9WJG/) | [YouTube](https://www.youtube.com/watch?v=qhbevxCl124) | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
+| ✏️ 15-05-2025 | PyCon US 2025 | [Reimplementing the module `itertools` for fun & profit](https://us.pycon.org/2025/schedule/presentation/93/) | - | [“The little book of `itertools`](https://mathspp.com/books/the-little-book-of-itertools) |
+| 🎙️ 16-10-2024 | PyCon US 2025 | [503 days working full-time on FOSS: lessons learned](https://us.pycon.org/2025/schedule/presentation/164/) | [YouTube](https://www.youtube.com/watch?v=iURLDirfmno) | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
+| ⚡ 16-05-2025 | PyCon US 2025 | [Meta lightning talk](https://us.pycon.org/2025/schedule/presentation/168/) | [YouTube](https://youtu.be/Uuhu-F05A7k?t=125) | - |
+
 
  - ✏️: tutorials / workshops / practical sessions
  - 🎙️: talks / presentations
