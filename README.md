@@ -12,7 +12,7 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 
 | Date | Conference | Talk title | Recording | Written version |
 | :- | :- | :- | :- | :- |
-| 16-10-2024 | PyCon US 2025 | [503 days working full-time on FOSS: lessons learned](https://us.pycon.org/2025/schedule/presentation/164/) | [YouTube](https://www.youtube.com/watch?v=iURLDirfmno) | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
+| 16-05-2025 | PyCon US 2025 | [503 days working full-time on FOSS: lessons learned](https://us.pycon.org/2025/schedule/presentation/164/) | [YouTube](https://www.youtube.com/watch?v=iURLDirfmno) | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
 | 18-10-2024 | PyCon Portugal 2024 | [503 days working full-time on FOSS: lessons learned](https://pretalx.evolutio.pt/pycon-portugal-2024/talk/BQ9WJG/) | [YouTube](https://www.youtube.com/watch?v=qhbevxCl124) | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
 | 10-07-2024 | EuroPython 2024 | [Animations from first principles](https://ep2024.europython.eu/session/animations-from-first-principles) | TBA | [Blog article](https://mathspp.com/blog/animations-from-first-principles-in-5-minutes) |
 | 25-05-2024 | PyCon Italia 2024 | [503 days working full-time on FOSS: lessons learned](https://2024.pycon.it/en/event/503-days-working-full-time-on-foss-lessons-learned) | TBA | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
