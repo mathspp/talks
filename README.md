@@ -12,6 +12,7 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 
 | Date | Conference | Talk title | Recording | Written version |
 | :- | :- | :- | :- | :- |
+| 31-05-2025 | PyCon Italia 2025 | [A tour of the module `itertools`](https://2025.pycon.it/en/event/a-tour-of-the-module-itertools) | TBA | [Blog article](https://mathspp.com/blog/module-itertools-overview) |
 | 30-05-2025 | PyCon Italia 2025 | [Dipping my toes in metaprogramming](https://2025.pycon.it/en/event/dipping-my-toes-in-metaprogramming) | TBA | [Blog article](https://mathspp.com/blog/dipping-my-toes-in-metaprogramming) |
 | 16-05-2025 | PyCon US 2025 | [503 days working full-time on FOSS: lessons learned](https://us.pycon.org/2025/schedule/presentation/164/) | [YouTube](https://www.youtube.com/watch?v=iURLDirfmno) | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
 | 03-12-2024 | PyData Global 2024 | [Understanding Polars data types](https://global2024.pydata.org/cfp/talk/WFBQR9/) | [YouTube](https://www.youtube.com/watch?v=8HwfVVknhP4) | [Polars blog article](https://pola.rs/posts/understanding-polars-data-types/) |
