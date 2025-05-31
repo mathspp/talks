@@ -12,6 +12,7 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 
 | Date | Conference | Talk title | Recording | Written version |
 | :- | :- | :- | :- | :- |
+| 30-05-2025 | PyCon Italia 2025 | [Dipping my toes in metaprogramming](https://2025.pycon.it/en/event/dipping-my-toes-in-metaprogramming) | TBA | [Blog article](https://mathspp.com/blog/dipping-my-toes-in-metaprogramming) |
 | 16-05-2025 | PyCon US 2025 | [503 days working full-time on FOSS: lessons learned](https://us.pycon.org/2025/schedule/presentation/164/) | [YouTube](https://www.youtube.com/watch?v=iURLDirfmno) | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
 | 03-12-2024 | PyData Global 2024 | [Understanding Polars data types](https://global2024.pydata.org/cfp/talk/WFBQR9/) | [YouTube](https://www.youtube.com/watch?v=8HwfVVknhP4) | [Polars blog article](https://pola.rs/posts/understanding-polars-data-types/) |
 | 18-10-2024 | PyCon Portugal 2024 | [503 days working full-time on FOSS: lessons learned](https://pretalx.evolutio.pt/pycon-portugal-2024/talk/BQ9WJG/) | [YouTube](https://www.youtube.com/watch?v=qhbevxCl124) | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
@@ -60,6 +61,7 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 
 | Date | Conference | Talk title | Recording | Written version |
 | :- | :- | :- | :- | :- |
+| 29-05-2025 | PyCon Italia 2025 | What the partial? | TBA | [Blog article](https://mathspp.com/blog/functools-partial) |
 | 16-05-2025 | PyCon US 2025 | [Meta lightning talk](https://us.pycon.org/2025/schedule/presentation/168/) | [YouTube](https://youtu.be/Uuhu-F05A7k?t=125) | - |
 | 17-10-2024 | PyCon Portugal 2024 | Python light: now with 0% sugar | [YouTube](https://youtu.be/4s9O-UnekJE?t=415) | [Blog article](https://mathspp.com/blog/hold-my-parentheses-light-now-with-zero-sugar) |
 | 18-09-2024 | PyData Amsterdam 2024 | Who wants to be a millionaire: PyData edition | [YouTube](https://youtu.be/itaFrslNgrw?list=PLGVZCDnMOq0reU2lzNZCn9obkyRVaSnpF&t=639) | - |
