@@ -62,7 +62,7 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 
 | Date | Conference | Talk title | Recording | Written version |
 | :- | :- | :- | :- | :- |
-| 29-05-2025 | PyCon Italia 2025 | What the partial? | TBA | [Blog article](https://mathspp.com/blog/functools-partial) |
+| 29-05-2025 | PyCon Italia 2025 | What the partial? | [YouTube](https://youtu.be/LpGW2Wwxlug?t=85) | [Blog article](https://mathspp.com/blog/functools-partial) |
 | 16-05-2025 | PyCon US 2025 | [Meta lightning talk](https://us.pycon.org/2025/schedule/presentation/168/) | [YouTube](https://youtu.be/Uuhu-F05A7k?t=125) | - |
 | 17-10-2024 | PyCon Portugal 2024 | Python light: now with 0% sugar | [YouTube](https://youtu.be/4s9O-UnekJE?t=415) | [Blog article](https://mathspp.com/blog/hold-my-parentheses-light-now-with-zero-sugar) |
 | 18-09-2024 | PyData Amsterdam 2024 | Who wants to be a millionaire: PyData edition | [YouTube](https://youtu.be/itaFrslNgrw?list=PLGVZCDnMOq0reU2lzNZCn9obkyRVaSnpF&t=639) | - |
