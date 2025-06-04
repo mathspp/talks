@@ -47,7 +47,7 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 | :- | :- | :- | :- | :- |
 | 15-05-2025 | PyCon US 2025 | [Reimplementing the module `itertools` for fun & profit](https://us.pycon.org/2025/schedule/presentation/93/) | - | [“The little book of `itertools`”](https://mathspp.com/books/the-little-book-of-itertools) |
 | 08-07-2024 | EuroPython 2024 | [Reinventing the `itertools` wheel for fun and profit](https://ep2024.europython.eu/session/reinventing-the-itertools-wheel-for-fun-and-profit) | - | [“The little book of `itertools`”](https://mathspp.com/books/the-little-book-of-itertools) |
-| 15-05-2024 | PyCon US 2024 | [The Pokémon trainer's guide to pandas & matplotlbi](https://us.pycon.org/2024/schedule/presentation/102/) | TBA | [Book](https://mathspp.gumroad.com/l/little-book-pandas-matplotlib) |
+| 15-05-2024 | PyCon US 2024 | [The Pokémon trainer's guide to pandas & matplotlib](https://us.pycon.org/2024/schedule/presentation/102/) | [YouTube](https://www.youtube.com/watch?v=M4CGalfUj0E) | [Book](https://mathspp.gumroad.com/l/little-book-pandas-matplotlib) |
 | 11-11-2023 | PyCon Ireland 2023 | [How to implement a Python-like programming language](http://pycon.ie/pycon-2023/schedule/) | - | [Blog series](https://mathspp.com/blog/tag:bpci) |
 | 09-09-2023 | PyCon Portugal 2023 | [Mastering comprehensions](https://pretalx.evolutio.pt/pycon-pt-2023/talk/FMZMGP/) | - | [Book](https://mathspp.com/comprehending-comprehensions), [Repo](https://github.com/mathspp/comprehending-comprehensions) |
 | 18-07-2023 | EuroPython 2023 | [Practical introduction to descriptors](https://ep2023.europython.eu/session/practical-introduction-to-descriptors) | -| [Link](https://mathspp.com/blog/pydonts/describing-descriptors) |
