@@ -69,7 +69,7 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 | 12-07-2024 | EuroPython 2024 | Who wants to be a millionaire | [YouTube](https://www.youtube.com/watch?v=6SckLDU_X6M) | - |
 | 24-05-2024 | PyCon Italia 2024 | Elegant (line of) code | [YouTube](https://www.youtube.com/watch?v=nI8I4NiXyaQ) | [Blog article](https://mathspp.com/blog/single-line-calculator) |
 | 18-05-2024 | PyCon US 2024 | Counting to 698,438,863,898,480,640 in <1ms | [YouTube](https://youtu.be/v9qZMEthaio?t=3675) | [Blog article](https://mathspp.com/blog/counting-passwords-with-automatons) |
-| 03-04-2024 | PyCon Lithuania 2024 | Hold my parentheses | TBA | [Blog article](https://mathspp.com/blog/hold-my-parentheses) |
+| 03-04-2024 | PyCon Lithuania 2024 | Hold my parentheses | - | [Blog article](https://mathspp.com/blog/hold-my-parentheses) |
 | 11-11-2023 | PyCon Ireland 2023 | Elegant (line of) code | TBA | [Blog article](https://mathspp.com/blog/single-line-calculator) |
 | 11-11-2023 | PyCon Ireland 2023 | How to draw a fractal with Python | TBA | [Blog article](https://mathspp.com/blog/mandelbrot-set) |
 | 08-09-2023 | PyCon Portugal 2023 | (More) Animations from first principles in 5 minutes | [YouTube](https://www.youtube.com/watch?v=IFw5KVvDgik) | [Link](https://mathspp.com/blog/more-animations-from-first-principles-in-5-minutes) |
