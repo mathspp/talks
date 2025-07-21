@@ -2,16 +2,17 @@
 
 Slides & supporting material for [my talks & tutorials](https://mathspp.com/talks).
 
-If you have talk feedback to give, [reach out to me](https://mathspp.com/contact-me).
+If you liked my talk or tutorial, you might like my Python newsletters.
 
-If you like(d) my talk(s), you might like my Python newsletter.
-Join +16,000 other Python programmers taking their Python 🐍 skills to the next level. 🚀
-[Subscribe here](https://mathspp.com/subscribe).
+ - Every weekday I send [a drop of Python knowledge to my Python drops 🐍💧 newsletter](https://mathspp.com/drops), a quick way of getting better at Python.
+ - Every week, I send an email to [the mathspp insider 🐍🚀 newsletter](https://mathspp.com/insider), teaching you something new about Python.
+
 
 ## 🎙️ Talks
 
 | Date | Conference | Talk title | Recording | Written version |
 | :- | :- | :- | :- | :- |
+| 17-07-2025 | EuroPython 2025 | [A tour of the module `itertools`](https://ep2025.europython.eu/session/a-tour-of-the-module-itertools) | TBA | [Blog article](https://mathspp.com/blog/module-itertools-overview) |
 | 31-05-2025 | PyCon Italia 2025 | [A tour of the module `itertools`](https://2025.pycon.it/en/event/a-tour-of-the-module-itertools) | TBA | [Blog article](https://mathspp.com/blog/module-itertools-overview) |
 | 30-05-2025 | PyCon Italia 2025 | [Dipping my toes in metaprogramming](https://2025.pycon.it/en/event/dipping-my-toes-in-metaprogramming) | TBA | [Blog article](https://mathspp.com/blog/dipping-my-toes-in-metaprogramming) |
 | 16-05-2025 | PyCon US 2025 | [503 days working full-time on FOSS: lessons learned](https://us.pycon.org/2025/schedule/presentation/164/) | [YouTube](https://www.youtube.com/watch?v=iURLDirfmno) | [Blog article](https://mathspp.com/blog/503-days-working-full-time-on-foss-lessons-learned) |
@@ -45,6 +46,7 @@ Join +16,000 other Python programmers taking their Python 🐍 skills to the nex
 
 | Date | Conference | Talk title | Recording | Written version |
 | :- | :- | :- | :- | :- |
+| 14-07-2025 | EuroPython 2025 | [Mastering decorators](https://ep2025.europython.eu/session/mastering-decorators-the-cherry-on-top-of-your-functions) | - | [Online course](https://decorators.mathspp.com) |
 | 15-05-2025 | PyCon US 2025 | [Reimplementing the module `itertools` for fun & profit](https://us.pycon.org/2025/schedule/presentation/93/) | - | [“The little book of `itertools`”](https://mathspp.com/books/the-little-book-of-itertools) |
 | 08-07-2024 | EuroPython 2024 | [Reinventing the `itertools` wheel for fun and profit](https://ep2024.europython.eu/session/reinventing-the-itertools-wheel-for-fun-and-profit) | - | [“The little book of `itertools`”](https://mathspp.com/books/the-little-book-of-itertools) |
 | 15-05-2024 | PyCon US 2024 | [The Pokémon trainer's guide to pandas & matplotlib](https://us.pycon.org/2024/schedule/presentation/102/) | [YouTube](https://www.youtube.com/watch?v=M4CGalfUj0E) | [Book](https://mathspp.gumroad.com/l/little-book-pandas-matplotlib) |
