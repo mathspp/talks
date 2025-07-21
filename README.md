@@ -2,7 +2,7 @@
 
 Slides & supporting material for [my talks & tutorials](https://mathspp.com/talks).
 
-If you liked my talk or tutorial, you might like my Python newsletters.
+If you liked my talk, you'll like my newsletters:
 
  - Every weekday I send [a drop of Python knowledge to my Python drops 🐍💧 newsletter](https://mathspp.com/drops), a quick way of getting better at Python.
  - Every week, I send an email to [the mathspp insider 🐍🚀 newsletter](https://mathspp.com/insider), teaching you something new about Python.
