@@ -67,6 +67,7 @@ If you liked my talk, you'll like my newsletters:
 
 | Date | Conference | Talk title | Recording | Written version |
 | :- | :- | :- | :- | :- |
+| 24-07-2025 | PyCon Portugal 2025 | What the Python? | TBA | - |
 | 29-05-2025 | PyCon Italia 2025 | What the partial? | [YouTube](https://youtu.be/LpGW2Wwxlug?t=85) | [Blog](https://mathspp.com/blog/functools-partial) |
 | 16-05-2025 | PyCon US 2025 | [Meta lightning talk](https://us.pycon.org/2025/schedule/presentation/168/) | [YouTube](https://youtu.be/Uuhu-F05A7k?t=125) | - |
 | 17-10-2024 | PyCon Portugal 2024 | Python light: now with 0% sugar | [YouTube](https://youtu.be/4s9O-UnekJE?t=415) | [Blog](https://mathspp.com/blog/hold-my-parentheses-light-now-with-zero-sugar) |
