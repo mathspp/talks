@@ -34,7 +34,7 @@ If you liked my talk, you'll like my newsletters:
 | 24-09-2022 | PyCon Portugal 2022 | Pydon'ts – Write elegant Python code v4⁽¹⁾ | [YouTube](https://youtu.be/ETg64K32Okc) | - |
 | 30-07-2022 | PyOhio 2022 | [Comprehending Comprehensions](https://www.pyohio.org/2022/program/talks/comprehending-comprehensions) | [YouTube](https://www.youtube.com/watch?v=ScsElLE_Pak) | [Book](https://gum.co/comprehending-comprehensions) |
 | 25-03-2022 | FnConf 2022 | [Why APL is a language worth knowing](https://confengine.com/conferences/functional-conf-2022/proposal/16278/why-apl-is-a-language-worth-knowing) | [YouTube](https://www.youtube.com/watch?v=j-qlYcIl61o) | [Link](https://mathspp.com/blog/why-apl-is-a-language-worth-knowing) |
-| 22-02-2022 | PyCon Sri Lanka 2022 | [Pydon'ts – Write elegant Python code v3](https://pycon.lk/2022/#agenda) | [YouTube](https://youtu.be/Bdunek7Q8Ss?t=90) | [Link](https://mathspp.com/blog/enumerate-from-first-principles) |
+| 22-02-2022 | PyCon Sri Lanka 2022 | Pydon'ts – Write elegant Python code v3 | [YouTube](https://youtu.be/Bdunek7Q8Ss?t=90) | [Link](https://mathspp.com/blog/enumerate-from-first-principles) |
 | 06-02-2022 | PyCascades 2022 | [Fifty shades of `sign`](https://2022.pycascades.com/program/schedule/) | [YouTube](https://www.youtube.com/watch?v=FkE-HrxSFCM) | [Link](https://mathspp.com/blog/50-shades-of-sign) |
 | 04-12-2021 | Pyjamas Conf 2021 | Pydon'ts – Write elegant Python code v2 | - | - |
 | 23-10-2021 | DjangoCon US 2021 | [Pydon'ts – Write elegant Python code v1.1](https://2021.djangocon.us/talks/pydon-ts-write-elegant-python-code-v1-1/) | [YouTube](https://www.youtube.com/watch?v=s6dJab2qwkg) | - |
