@@ -12,6 +12,7 @@ If you liked my talk, you'll like my newsletters:
 
 | Date | Conference | Talk title | Recording | Written version |
 | :- | :- | :- | :- | :- |
+| 12-02-2026 | Python Users Berlin | [The paradox of `itertools.tee`](https://www.meetup.com/python-users-berlin-pub/events/312711011/) | TBA | - |
 | 24-07-2025 | PyCon Portugal 2025 | [A tour of the module `itertools`](https://pretalx.evolutio.pt/pycon-portugal-2025/talk/GLYSA7/) | TBA | [Blog](https://mathspp.com/blog/module-itertools-overview) |
 | 17-07-2025 | EuroPython 2025 | [A tour of the module `itertools`](https://ep2025.europython.eu/session/a-tour-of-the-module-itertools) | TBA | [Blog](https://mathspp.com/blog/module-itertools-overview) |
 | 31-05-2025 | PyCon Italia 2025 | [A tour of the module `itertools`](https://2025.pycon.it/en/event/a-tour-of-the-module-itertools) | TBA | [Blog](https://mathspp.com/blog/module-itertools-overview) |
