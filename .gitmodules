@@ -3,3 +3,6 @@
 	path = 20230717-textual-todo-tutorial
 	url = https://github.com/textualize/TODO-tutorial
 	branch = main
+[submodule "20230920-terminal-based-user-interfaces-with-ease-using-textual"]
+	path = 20230920-terminal-based-user-interfaces-with-ease-using-textual
+	url = https://github.com/Textualize/TODO-tutorial
