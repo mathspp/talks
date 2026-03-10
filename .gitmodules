@@ -6,3 +6,6 @@
 [submodule "20230920-terminal-based-user-interfaces-with-ease-using-textual"]
 	path = 20230920-terminal-based-user-interfaces-with-ease-using-textual
 	url = https://github.com/Textualize/TODO-tutorial
+[submodule "20231004-more-textual"]
+	path = 20231004-more-textual
+	url = https://github.com/Textualize/TODO-tutorial
