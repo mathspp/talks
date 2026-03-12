@@ -12,6 +12,7 @@ If you liked my talk, you'll like my newsletters:
 
 | Date | Conference | Talk title | Recording | Written version |
 | :- | :- | :- | :- | :- |
+| 11-03-2026 | Dayton Dynamic Languages Group | [NP-completeness](https://dayton-dynamic.github.io/meeting/2026/03/11/np-completeness.html) | [YouTube](https://youtu.be/RV8XTwrtstg) | TBA |
 | 18-02-2026 | Stockholm Python User Group | [A tour of the module `itertools`, part 2](https://www.meetup.com/pysthlm/events/313323945/) | [YouTube](https://youtu.be/xTBnUBDf4EM) | [Blog](https://mathspp.com/blog/module-itertools-overview) |
 | 12-02-2026 | Python Users Berlin | [The paradox of `itertools.tee`](https://www.meetup.com/python-users-berlin-pub/events/312711011/) | [YouTube](https://youtu.be/7tYGPC-yzjE) | - |
 | 24-07-2025 | PyCon Portugal 2025 | [A tour of the module `itertools`](https://pretalx.evolutio.pt/pycon-portugal-2025/talk/GLYSA7/) | [YouTube](https://www.youtube.com/watch?v=Vfq1TsPd6ag) | [Blog](https://mathspp.com/blog/module-itertools-overview) |
