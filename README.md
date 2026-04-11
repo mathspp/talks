@@ -81,7 +81,7 @@ If you liked my talk, you'll like my newsletters:
 | 16-05-2025 | PyCon US 2025 | [Meta lightning talk](https://us.pycon.org/2025/schedule/presentation/168/) | [YouTube](https://youtu.be/Uuhu-F05A7k?t=125) | - |
 | 17-10-2024 | PyCon Portugal 2024 | Python light: now with 0% sugar | [YouTube](https://youtu.be/4s9O-UnekJE?t=415) | [Blog](https://mathspp.com/blog/hold-my-parentheses-light-now-with-zero-sugar) |
 | 18-09-2024 | PyData Amsterdam 2024 | Who wants to be a millionaire: PyData edition | [YouTube](https://youtu.be/itaFrslNgrw?list=PLGVZCDnMOq0reU2lzNZCn9obkyRVaSnpF&t=639) | - |
-| 12-07-2024 | EuroPython 2024 | Who wants to be a millionaire | [YouTube](https://www.youtube.com/watch?v=6SckLDU_X6M) | - |
+| 12-07-2024 | EuroPython 2024 | Who wants to be a millionaire | [YouTube](https://www.youtube.com/watch?v=6SckLDU_X6M) | [Blog](https://mathspp.com/blog/who-wants-to-be-a-millionaire) |
 | 24-05-2024 | PyCon Italia 2024 | Elegant (line of) code | [YouTube](https://www.youtube.com/watch?v=nI8I4NiXyaQ) | [Blog](https://mathspp.com/blog/single-line-calculator) |
 | 18-05-2024 | PyCon US 2024 | Counting to 698,438,863,898,480,640 in <1ms | [YouTube](https://youtu.be/v9qZMEthaio?t=3675) | [Blog](https://mathspp.com/blog/counting-passwords-with-automatons) |
 | 03-04-2024 | PyCon Lithuania 2024 | Hold my parentheses | - | [Blog](https://mathspp.com/blog/hold-my-parentheses) |
