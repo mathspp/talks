@@ -12,6 +12,8 @@ If you liked my talk, you'll like my newsletters:
 
 | Date | Conference | Talk title | Recording | Written version |
 | :- | :- | :- | :- | :- |
+| 09-04-2026 | PyCon Lithuania 2026 | [And now for something completely different](https://pycon.lt/2026/talks/ZCZFLH) | TBA | [Blog](https://mathspp.com/blog/a-generator-duck-typing-and-a-branchless-conditional-walk-into-a-bar) |
+| 08-04-2026 | PyCon Lithuania 2026 | [The paradox of `itertools.tee`](https://pycon.lt/2026/talks/TXCRFM) | TBA | TBA |
 | 11-03-2026 | Dayton Dynamic Languages Group | [NP-completeness](https://dayton-dynamic.github.io/meeting/2026/03/11/np-completeness.html) | [YouTube](https://youtu.be/RV8XTwrtstg) | TBA |
 | 18-02-2026 | Stockholm Python User Group | [A tour of the module `itertools`, part 2](https://www.meetup.com/pysthlm/events/313323945/) | [YouTube](https://youtu.be/xTBnUBDf4EM) | [Blog](https://mathspp.com/blog/module-itertools-overview) |
 | 12-02-2026 | Python Users Berlin | [The paradox of `itertools.tee`](https://www.meetup.com/python-users-berlin-pub/events/312711011/) | [YouTube](https://youtu.be/7tYGPC-yzjE) | - |
@@ -72,6 +74,8 @@ If you liked my talk, you'll like my newsletters:
 
 | Date | Conference | Talk title | Recording | Written version |
 | :- | :- | :- | :- | :- |
+| 10-04-2026 | PyCon Lithuania 2026 | What the Python? | TBA | - |
+| 08-04-2026 | PyCon Lithuania 2026 | Who wants to be a millionaire: iterables edition | TBA | [Blog](https://mathspp.com/blog/who-wants-to-be-a-millionaire-iterables-edition) |
 | 24-07-2025 | PyCon Portugal 2025 | What the Python? | [YouTube](https://youtu.be/QxfdLDyCypI) | - |
 | 29-05-2025 | PyCon Italia 2025 | What the partial? | [YouTube](https://youtu.be/LpGW2Wwxlug?t=85) | [Blog](https://mathspp.com/blog/functools-partial) |
 | 16-05-2025 | PyCon US 2025 | [Meta lightning talk](https://us.pycon.org/2025/schedule/presentation/168/) | [YouTube](https://youtu.be/Uuhu-F05A7k?t=125) | - |
