@@ -1,5 +1,9 @@
 # Fast Python Development With uv
 
+## Setup
+
+ 1. Install uv.
+
 ## Links
 
  - Install uv: https://docs.astral.sh/uv/getting-started/installation/
